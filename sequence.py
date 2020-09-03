@@ -6,7 +6,7 @@
 # if third is 3, current is 3
 # else current is the addition of first second and third
 # and first is second, second third and third is current
-# print current
+# print current 
 n = int(input("Enter the length of the sequence: ")) # Do not change this line
 for i in range(1, n+1):
     if i == 1:
